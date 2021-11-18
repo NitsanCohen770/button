@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "button-bit-assignment",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/NitsanCohen770/button/issues"
   },
-  "homepage": "https://github.com/NitsanCohen770/button#readme"
+  "homepage": "https://github.com/NitsanCohen770/button#readme",
+  "dependencies": {
+    "@types/jest": "^27.0.3",
+    "@types/node": "^16.11.8",
+    "@types/react": "^17.0.35",
+    "@types/react-dom": "^17.0.11",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.2",
+    "webpack": "^5.64.1",
+    "webpack-cli": "^4.9.1"
+  }
 }
